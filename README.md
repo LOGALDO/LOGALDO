@@ -1,5 +1,5 @@
 # LOGALDO
-Logaldo es el nombre de este proyecto, porque no es ni mas ni menos que la construcción de mí y de las generaciones que cree. 
+Logaldo es el nombre de este proyecto, porque no es ni mas ni menos que la construcción propia y de las generaciones que me sigan. 
 
 > Lo hago a partir de una profunda convicción personal; mis decisiones de hoy, son eventos de mi futuro y palabras en mi historia. El control lo tengo yo. 
 
