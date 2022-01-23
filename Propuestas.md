@@ -3,4 +3,5 @@
 # Vouch
 # Lovic
 # Control de temperatura
+# Equipamiento de hogar
 # Sowi
