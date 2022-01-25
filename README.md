@@ -7,3 +7,5 @@ Logaldo es el nombre de este proyecto, porque no es ni mas ni menos que la const
 
 # Vision general del progreso
 - [Documentacion de operaciones](https://docs.google.com/spreadsheets/d/1xGMpqGuLXhdKntWht_3IomqG-hLKrHCEFwRx5WXSpIM/edit?usp=sharing)
+- [Linea de tiempo](https://calendar.google.com/calendar/u/0/r)
+
