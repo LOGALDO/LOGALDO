@@ -1,1 +1,6 @@
-
+El dia inicia leyendo lo que la noche anterior deje proyectado hacer. 
+Lo que debo hacer no son tareas, son movimientos.
+En mi proyeccion, tengo los 3, 4, 10, 15 siguientes movimientos que haré. 
+Cada movimiento, no lo hago a contra reloj, lo hago con cronometro. Entonces, mi motivacion es batir mi marca anterior, no una que estimé. 
+Al final del dia, actualizo los KPI´s. 
+Cada cierto rango de tiempo, el cual al principio es todos los dias, controlo la paridad entre mi trayectoria y la proyeccion para dicho trayecto.
